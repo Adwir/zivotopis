@@ -1,0 +1,9 @@
+font-family: 'Abril Fatface', cursive;
+
+font-family: 'Alumni Sans Pinstripe', sans-serif;
+
+font-family: 'Bodoni Moda', serif;
+
+font-family: 'Dancing Script', cursive;
+
+font-family: 'Lemonada', cursive;

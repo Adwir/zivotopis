@@ -1,0 +1,103 @@
+body 
+{color: #2f6071;
+margin:0;
+font-family: 'Bodoni Moda', serif;
+font-size: 15px;
+line-height: 1.5;
+}
+
+header {
+    overflow: auto;
+    padding: 50px 15%;
+}
+
+section {
+    padding: 50px 15%;
+    overflow:auto;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive; 
+}
+
+h2 {
+    font-family: 'Bodoni Moda', serif;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: 'Lemonada', cursive; 
+    margin-top: 50px;
+}
+
+a {
+    font-family: 'Abril Fatface', cursive; 
+    color: #474b4d; 
+    text-decoration: none;
+}
+.ja {
+width: 250px;
+border: 2px solid #fa6122;
+border-radius: 10px;
+float:left;
+margin-right: 40px;
+
+}
+
+.with-spiderman {
+   width: 200px;
+   float: right;
+border: 2px solid #fa6122;
+border-radius: 10px;
+margin-left: 40px;
+margin-bottom: 0px;
+}
+
+
+.menu {
+margin: 0;
+padding: 0;
+text-align: center;
+background-color: #474b4d;
+
+}
+.menu li {
+display:inline-block
+}
+.menu a {
+display: inline-block;
+color: white;
+padding: 10px 40px;
+font-size: 20px;
+}
+
+.pracovni-zkusenosti {
+background-color: #f59963;
+}
+
+.vzdelani {
+background-color: #fbceb0;
+}
+
+.kurzy {
+background-color: bisque;
+}
+
+.zajimavost {
+background-color: antiquewhite;
+}
+
+.paticka {
+color: white;
+background-color: #474b4d;
+text-align: center;
+padding: 20px 0;
+}
+.roky {
+font-family: 'Bodoni Moda', serif;
+font-size: 13px;
+}
+
+
+
+

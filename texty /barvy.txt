@@ -1,0 +1,41 @@
+PRIMARY
+oranžová
+#fbceb0
+#f59963
+#fa6122
+
+tyrkysová
+#36b7ca
+#57c4db
+#67b8d5
+
+tmavě modrá
+#2f6071
+
+šedá
+#b0b1b3
+#707477
+#474b4d
+
+bílá
+#ffffff
+
+SECONDARY
+žlutá
+#eaa211
+
+zelená
+#70a508
+
+barva textu
+aktivnich odkazu
+pozadi menu
+paticka
+barva nadpisu
+odkaz a pozadi aktivniho menu
+linka na menu
+pozadi 1 sekce a 3 sekce
+pozadi druhe sekce a 4
+
+
+
