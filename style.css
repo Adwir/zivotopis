@@ -13,7 +13,7 @@ header {
 
 section {
     padding: 50px 15%;
-    overflow:auto;
+    overflow: auto;
 }
 
 h1 {
@@ -41,12 +41,11 @@ border: 2px solid #fa6122;
 border-radius: 10px;
 float:left;
 margin-right: 40px;
-
 }
 
 .with-spiderman {
-   width: 200px;
-   float: right;
+width: 200px;
+float: right;
 border: 2px solid #fa6122;
 border-radius: 10px;
 margin-left: 40px;
@@ -93,6 +92,7 @@ background-color: #474b4d;
 text-align: center;
 padding: 20px 0;
 }
+
 .roky {
 font-family: 'Bodoni Moda', serif;
 font-size: 13px;
